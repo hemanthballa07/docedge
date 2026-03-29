@@ -47,7 +47,7 @@ export const SettingsScreen: React.FC = () => {
         <Text style={styles.sectionTitle}>Coming Soon</Text>
         <View style={styles.infoCard}>
           <Text style={styles.comingSoonItem}>🔔 Push notifications for new deals</Text>
-          <Text style={styles.comingSoonItem}>☁️ Cloud sync &amp; backup</Text>
+          <Text style={styles.comingSoonItem}>☁️ Cloud sync & backup</Text>
           <Text style={styles.comingSoonItem}>📊 Earnings tracker</Text>
           <Text style={styles.comingSoonItem}>🔗 Direct links to deal pages</Text>
         </View>
